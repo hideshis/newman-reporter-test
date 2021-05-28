@@ -1,0 +1,19 @@
+{
+  "name": "newman-reporter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hideshis/newman-reporter-test.git"
+  },
+  "author": "hideshis <hideshis1990@gmail.com> (https://github.com/hideshis)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hideshis/newman-reporter-test/issues"
+  },
+  "homepage": "https://github.com/hideshis/newman-reporter-test#readme"
+}
